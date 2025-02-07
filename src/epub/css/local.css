@@ -272,3 +272,19 @@ span.elision{
 	margin-left: 3em;
 }
 /* end of poem/verse/song */
+
+/* custom */
+[epub|type~="se:letter.dateline"]{
+	text-align: right;
+}
+
+#part-1 blockquote header,
+#part-2 blockquote header{
+	text-align: initial;
+}
+
+#part-2 blockquote:nth-of-type(9) header{
+	margin-bottom: 1em;
+	text-align: center;
+}
+/* end of custom */
