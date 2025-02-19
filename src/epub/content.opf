@@ -42,9 +42,11 @@
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta id="collection-2" property="belongs-to-collection">The Human Comedy: Scenes from Provincial Life</meta>
 		<meta property="collection-type" refines="#collection-2">series</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A young girl grows up in the care of her uncle and his friends amidst the machinations of the uncle’s heirs to prevent her from inheriting anything.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;When Doctor Minoret moves to Nemours with a baby girl in tow, his relatives, and heirs, are alarmed. The doctor was wealthy and seventy-one, and his heirs were already mentally dividing up the spoils amongst themselves. They didn’t want a new candidate for the doctor’s affection interfering with their inheritance.&lt;/p&gt;
+			&lt;p&gt;The doctor soon makes friends of the local curé, a retired military man, and the local justice of the peace. Together the men dote on Ursule, the illegitimate daughter of the doctor’s nephew, and bring her up in an unconventional yet loving environment. The heirs, to whom the doctor has made plain he does not care to socialize, continue to fume and fret and scheme.&lt;/p&gt;
+			&lt;p&gt;While Ursule is a teenager and begins to notice young men, and one in particular, the doctor at last begins to decline. He makes arrangements to provide for Ursule after he’s gone, but the heirs are on heightened alert, and the drama of whether Ursule will be provided for or completely disinherited makes up the bulk of the second part of the novel.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<!-- scans -->
